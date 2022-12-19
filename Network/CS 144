@@ -1,1 +1,4 @@
-## CS 144 学习笔记
+# CS 144 学习笔记
+## lab-0-reading
+1. a networking abstraction: bidirectional byte stream. Assume a client and a server,
+we write some bytes in the client terminal, the server give some bytes back to client
